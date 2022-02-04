@@ -3,7 +3,7 @@
 
 Submitted by: **Yisac Tsegaye Wanna**
 
-Time spent: 4 hours spent in total
+Time spent: 6 hours spent in total
 ## User Stories
 
 The following required functionality is completed:
