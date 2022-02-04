@@ -14,9 +14,7 @@ The following required functionality is completed:
 
 
 
-The following additional features are implemented:
 
-* [ ]   List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 <img src='Walkthrough.gif' title='Video Walkthrough' Width='' alt='Video Walkthrough' />
